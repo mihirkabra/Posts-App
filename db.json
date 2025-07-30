@@ -1,124 +1,124 @@
 {
-    "posts": [
-        {
-            "id": "1",
-            "caption": "Sunset Vibes at the Coast",
-            "likes": 143,
-            "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
-        },
-        {
-            "id": "2",
-            "caption": "Morning Coffee & Peace",
-            "likes": 98,
-            "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
-        },
-        {
-            "id": "3",
-            "caption": "Wanderlust in the Mountains",
-            "likes": 212,
-            "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
-        },
-        {
-            "id": "4",
-            "caption": "City Lights Never Sleep",
-            "likes": 320,
-            "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade"
-        },
-        {
-            "id": "5",
-            "caption": "Minimal Workspace Goals",
-            "likes": 187,
-            "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
-        },
-        {
-            "id": "6",
-            "caption": "Nature’s Perfect Symmetry",
-            "likes": 104,
-            "imageUrl": "https://images.unsplash.com/photo-1504198458649-3128b932f49e"
-        },
-        {
-            "id": "7",
-            "caption": "Street Food Diaries",
-            "likes": 269,
-            "imageUrl": "https://images.unsplash.com/photo-1600891963935-17c1e3948e28"
-        },
-        {
-            "id": "8",
-            "caption": "Calm Before the Storm",
-            "likes": 92,
-            "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-        },
-        {
-            "id": "9",
-            "caption": "Monochrome Mood",
-            "likes": 78,
-            "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
-        },
-        {
-            "id": "10",
-            "caption": "Ocean’s Whisper",
-            "likes": 230,
-            "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
-        },
-        {
-            "id": "11",
-            "caption": "Dreamy Countryside Escape",
-            "likes": 156,
-            "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
-        },
-        {
-            "id": "12",
-            "caption": "Tech Meets Art",
-            "likes": 205,
-            "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
-        },
-        {
-            "id": "13",
-            "caption": "Floral Aesthetic for Your Feed",
-            "likes": 312,
-            "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
-        },
-        {
-            "id": "14",
-            "caption": "Architecture that Inspires",
-            "likes": 243,
-            "imageUrl": "https://images.unsplash.com/photo-1505842465776-3d90f616310d"
-        },
-        {
-            "id": "15",
-            "caption": "Vintage Wheels, Timeless Stories",
-            "likes": 134,
-            "imageUrl": "https://images.unsplash.com/photo-1583267746026-2466c3ba7d84"
-        },
-        {
-            "id": "16",
-            "caption": "Coding Late Nights",
-            "likes": 178,
-            "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984"
-        },
-        {
-            "id": "17",
-            "caption": "Books & Brews",
-            "likes": 115,
-            "imageUrl": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3"
-        },
-        {
-            "id": "18",
-            "caption": "Sky Above, Earth Below",
-            "likes": 264,
-            "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
-        },
-        {
-            "id": "19",
-            "caption": "Desert Dreams & Dunes",
-            "likes": 174,
-            "imageUrl": "https://images.unsplash.com/photo-1533757875019-32a97e4925bf"
-        },
-        {
-            "id": "20",
-            "caption": "Morning Mist, Forest Bliss",
-            "likes": 203,
-            "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "caption": "Sunset Vibes at the Coast",
+      "likes": 143,
+      "imageUrl": "https://picsum.photos/300/200?random=1"
+    },
+    {
+      "id": 2,
+      "caption": "Wanderlust in the Mountains",
+      "likes": 212,
+      "imageUrl": "https://picsum.photos/300/200?random=2"
+    },
+    {
+      "id": 3,
+      "caption": "City Lights Never Sleep",
+      "likes": 320,
+      "imageUrl": "https://picsum.photos/300/200?random=3"
+    },
+    {
+      "id": 4,
+      "caption": "Minimal Workspace Goals",
+      "likes": 187,
+      "imageUrl": "https://picsum.photos/300/200?random=4"
+    },
+    {
+      "id": 5,
+      "caption": "Nature’s Perfect Symmetry",
+      "likes": 104,
+      "imageUrl": "https://picsum.photos/300/200?random=5"
+    },
+    {
+      "id": 6,
+      "caption": "Street Food Diaries",
+      "likes": 269,
+      "imageUrl": "https://picsum.photos/300/200?random=6"
+    },
+    {
+      "id": 7,
+      "caption": "Calm Before the Storm",
+      "likes": 92,
+      "imageUrl": "https://picsum.photos/300/200?random=7"
+    },
+    {
+      "id": 8,
+      "caption": "Monochrome Mood",
+      "likes": 78,
+      "imageUrl": "https://picsum.photos/300/200?random=8"
+    },
+    {
+      "id": 9,
+      "caption": "Ocean’s Whisper",
+      "likes": 230,
+      "imageUrl": "https://picsum.photos/300/200?random=9"
+    },
+    {
+      "id": 10,
+      "caption": "Dreamy Countryside Escape",
+      "likes": 156,
+      "imageUrl": "https://picsum.photos/300/200?random=10"
+    },
+    {
+      "id": 11,
+      "caption": "Tech Meets Art",
+      "likes": 205,
+      "imageUrl": "https://picsum.photos/300/200?random=11"
+    },
+    {
+      "id": 12,
+      "caption": "Floral Aesthetic for Your Feed",
+      "likes": 312,
+      "imageUrl": "https://picsum.photos/300/200?random=12"
+    },
+    {
+      "id": 13,
+      "caption": "Architecture that Inspires",
+      "likes": 243,
+      "imageUrl": "https://picsum.photos/300/200?random=13"
+    },
+    {
+      "id": 14,
+      "caption": "Vintage Wheels, Timeless Stories",
+      "likes": 134,
+      "imageUrl": "https://picsum.photos/300/200?random=14"
+    },
+    {
+      "id": 15,
+      "caption": "Coding Late Nights",
+      "likes": 178,
+      "imageUrl": "https://picsum.photos/300/200?random=15"
+    },
+    {
+      "id": 16,
+      "caption": "Books & Brews",
+      "likes": 115,
+      "imageUrl": "https://picsum.photos/300/200?random=16"
+    },
+    {
+      "id": 17,
+      "caption": "Sky Above, Earth Below",
+      "likes": 264,
+      "imageUrl": "https://picsum.photos/300/200?random=17"
+    },
+    {
+      "id": 18,
+      "caption": "Desert Dreams & Dunes",
+      "likes": 174,
+      "imageUrl": "https://picsum.photos/300/200?random=18"
+    },
+    {
+      "id": 19,
+      "caption": "Morning Mist, Forest Bliss",
+      "likes": 203,
+      "imageUrl": "https://picsum.photos/300/200?random=19"
+    },
+    {
+      "id": 20,
+      "caption": "Golden Hour Reflections",
+      "likes": 198,
+      "imageUrl": "https://picsum.photos/300/200?random=20"
+    }
+  ]
 }

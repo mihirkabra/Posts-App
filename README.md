@@ -1,69 +1,49 @@
-# React + TypeScript + Vite
+# Posts App (Dummy Application made using json-server)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Overview:** This is a simple application that lists down a few posts and provides the option to delete and create a post.
 
-Currently, two official plugins are available:
+### Tech Stack Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The application is developed using the following technologies:
 
-## Expanding the ESLint configuration
+- **Backend**: json-server (dummy)
+- **Frontend**: React (TypeScript)
+- **Libraries and Tools**:- 
+    - Bootstrap
+    - Axios
+    - react-icons
+    - sweetalert
+    - concurrently
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Project Setup
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+To set up the Posts App project locally, ensure that you have Node.js and Git installed on your machine. Follow these steps:
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+1. **Navigate to the desired directory** where you want to clone the Posts App repository using your command line interface (CLI):
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```
+cd PATH_TO_THE_DIRECTORY
+```
+2. **Clone the Posts App repository**:
+
+```
+git clone https://github.com/mihirkabra/Posts-App.git
+```
+3. **Change to the project directory**:
+
+```
+cd Posts-App
+```
+4. **Install the dependencies**:
+
+```
+npm install
+```
+5. **Run the project**:
+
+```
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### Screen Recording
+![Output](media/PostsAppRecording.gif)
